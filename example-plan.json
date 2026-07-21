@@ -1,0 +1,93 @@
+{
+  "title": "Example Paper Plan",
+  "authors": [
+    "Alice",
+    "Bob",
+    "Carol"
+  ],
+  "sections": [
+    {
+      "t": "INTRODUCTION",
+      "subs": [
+        {
+          "x": "Motivation",
+          "s": "d",
+          "o": [
+            "Alice"
+          ],
+          "kids": []
+        },
+        {
+          "x": "Contributions",
+          "s": "p",
+          "o": [
+            "Alice",
+            "Bob"
+          ],
+          "kids": []
+        }
+      ]
+    },
+    {
+      "t": "METHOD",
+      "subs": [
+        {
+          "x": "Model",
+          "o": [],
+          "kids": [
+            {
+              "x": "Assumptions",
+              "s": "d",
+              "o": [
+                "Bob"
+              ]
+            },
+            {
+              "x": "Derivation",
+              "s": "e",
+              "o": []
+            }
+          ]
+        },
+        {
+          "x": "Algorithm",
+          "s": "p",
+          "o": [
+            "Carol"
+          ],
+          "kids": []
+        }
+      ]
+    },
+    {
+      "t": "EXPERIMENTS",
+      "subs": [
+        {
+          "x": "Setup",
+          "s": "e",
+          "o": [],
+          "kids": []
+        },
+        {
+          "x": "Results",
+          "s": "e",
+          "o": [
+            "Carol"
+          ],
+          "kids": []
+        }
+      ]
+    },
+    {
+      "t": "CONCLUSION",
+      "subs": [
+        {
+          "x": "Summary",
+          "s": "e",
+          "o": [],
+          "kids": []
+        }
+      ]
+    }
+  ]
+}
