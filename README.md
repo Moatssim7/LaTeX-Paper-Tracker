@@ -4,6 +4,11 @@ A single-file, drag-and-drop planner for **multi-author papers** — surveys, jo
 
 ![status: static badge](https://img.shields.io/badge/dependencies-none-brightgreen) ![single file](https://img.shields.io/badge/build-single%20HTML%20file-blue) ![license](https://img.shields.io/badge/license-MIT-lightgrey)
 
+
+
+<img width="1895" height="603" alt="Demo" src="https://github.com/user-attachments/assets/8db5801f-23e5-4030-a93c-29eca4d8af7e" />
+
+
 ## Why
 
 On a paper with many co-authors, the hard part isn't writing — it's knowing **who owns what**, **what's done**, and **what has no owner yet**. This tool turns a `main.tex` (or a blank board) into a live assignment map you can edit in a meeting and share as a one-page PDF or a text summary.
